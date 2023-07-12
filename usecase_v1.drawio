@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T19:09:33.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vokj4pHRATBwc1hZZynT" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T19:11:52.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mSFcZRWQxKSxX34CE4k3" version="21.6.2" type="github">
   <diagram name="Page-1" id="nv0in6sxqN7r_D8xVUoy">
-    <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="2098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EH9wGpjO3HeuwXqVaA0w-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="320" y="80" width="1140" height="1140" as="geometry" />
+          <mxGeometry x="320" y="-30" width="1250" height="1250" as="geometry" />
         </mxCell>
         <mxCell id="EH9wGpjO3HeuwXqVaA0w-18" value="&lt;h1&gt;&lt;b&gt;United Pharma Web Application&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="445" y="90" width="430" height="30" as="geometry" />
+          <mxGeometry x="570" y="30" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EH9wGpjO3HeuwXqVaA0w-20" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EH9wGpjO3HeuwXqVaA0w-1" target="EH9wGpjO3HeuwXqVaA0w-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -39,23 +39,29 @@
         <mxCell id="EH9wGpjO3HeuwXqVaA0w-15" value="Unregistered Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="560" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N690Rj-D5nCbPYyqFjpt-2" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=gap;" edge="1" parent="1" source="EH9wGpjO3HeuwXqVaA0w-19" target="N690Rj-D5nCbPYyqFjpt-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="N690Rj-D5nCbPYyqFjpt-4" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=none;" edge="1" parent="1" source="EH9wGpjO3HeuwXqVaA0w-19" target="N690Rj-D5nCbPYyqFjpt-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EH9wGpjO3HeuwXqVaA0w-19" value="Login" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="190" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EH9wGpjO3HeuwXqVaA0w-21" value="Register" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="560" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N690Rj-D5nCbPYyqFjpt-1" value="Login with Google Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="180" width="120" height="80" as="geometry" />
+        <mxCell id="N690Rj-D5nCbPYyqFjpt-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N690Rj-D5nCbPYyqFjpt-1" target="EH9wGpjO3HeuwXqVaA0w-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N690Rj-D5nCbPYyqFjpt-3" value="Login with Facebook Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="280" width="120" height="80" as="geometry" />
+        <mxCell id="N690Rj-D5nCbPYyqFjpt-1" value="Login with Google Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N690Rj-D5nCbPYyqFjpt-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N690Rj-D5nCbPYyqFjpt-5" target="EH9wGpjO3HeuwXqVaA0w-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N690Rj-D5nCbPYyqFjpt-5" value="Login with Facebook Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="190" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N690Rj-D5nCbPYyqFjpt-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.744;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N690Rj-D5nCbPYyqFjpt-6" target="EH9wGpjO3HeuwXqVaA0w-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N690Rj-D5nCbPYyqFjpt-6" value="Login with User Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
