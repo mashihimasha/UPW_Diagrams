@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T18:05:36.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ojKVsUZZh-YVLJmWPMm5" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T18:09:38.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="F9C7zIg_1b7uPLw1hbdW" version="21.6.2" type="github">
   <diagram name="Page-1" id="nv0in6sxqN7r_D8xVUoy">
-    <mxGraphModel dx="2911" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="3414" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EH9wGpjO3HeuwXqVaA0w-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="410" y="280" width="1570" height="1570" as="geometry" />
+          <mxGeometry x="410" y="280" width="1370" height="1370" as="geometry" />
         </mxCell>
         <mxCell id="EH9wGpjO3HeuwXqVaA0w-18" value="&lt;h1&gt;&lt;b&gt;United Pharma Web Application&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="662.5" y="300" width="455" height="30" as="geometry" />
@@ -83,7 +83,10 @@
           <mxGeometry x="1080" y="550" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N690Rj-D5nCbPYyqFjpt-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1560" y="400" width="30" height="160" as="geometry" />
+          <mxGeometry x="1850" y="410" width="30" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="N690Rj-D5nCbPYyqFjpt-130" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N690Rj-D5nCbPYyqFjpt-32" source="N690Rj-D5nCbPYyqFjpt-11" target="N690Rj-D5nCbPYyqFjpt-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N690Rj-D5nCbPYyqFjpt-11" value="Google Login Service" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="N690Rj-D5nCbPYyqFjpt-32">
           <mxGeometry width="30" height="60" as="geometry" />
@@ -166,13 +169,8 @@
         <mxCell id="N690Rj-D5nCbPYyqFjpt-56" value="Add to Cart" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="950" y="820" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N690Rj-D5nCbPYyqFjpt-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;elbow=vertical;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="N690Rj-D5nCbPYyqFjpt-81" target="N690Rj-D5nCbPYyqFjpt-59">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1173" y="1060" />
-              <mxPoint x="1173" y="1060" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="N690Rj-D5nCbPYyqFjpt-82" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;elbow=vertical;" edge="1" parent="1" source="N690Rj-D5nCbPYyqFjpt-81" target="N690Rj-D5nCbPYyqFjpt-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N690Rj-D5nCbPYyqFjpt-83" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N690Rj-D5nCbPYyqFjpt-82">
           <mxGeometry x="-0.354" y="-2" relative="1" as="geometry">
@@ -196,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N690Rj-D5nCbPYyqFjpt-59" value="Checkout" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="820" width="90" height="60" as="geometry" />
+          <mxGeometry x="1144" y="820" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N690Rj-D5nCbPYyqFjpt-62" value="Update Product Quantities" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="860" y="700" width="90" height="60" as="geometry" />
@@ -236,7 +234,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N690Rj-D5nCbPYyqFjpt-81" value="Update Billing Details" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1120" width="90" height="60" as="geometry" />
+          <mxGeometry x="1130" y="1120" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N690Rj-D5nCbPYyqFjpt-108" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="N690Rj-D5nCbPYyqFjpt-87" target="EH9wGpjO3HeuwXqVaA0w-2">
           <mxGeometry relative="1" as="geometry">
@@ -260,10 +258,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N690Rj-D5nCbPYyqFjpt-123" value="Add/Update Payment Details" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="820" width="105" height="70" as="geometry" />
+          <mxGeometry x="1340" y="815" width="105" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N690Rj-D5nCbPYyqFjpt-133" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.107;entryY=0.338;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="N690Rj-D5nCbPYyqFjpt-126" target="N690Rj-D5nCbPYyqFjpt-132">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N690Rj-D5nCbPYyqFjpt-126" value="Payment Authentication" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="820" width="105" height="70" as="geometry" />
+          <mxGeometry x="1560" y="815" width="105" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N690Rj-D5nCbPYyqFjpt-132" value="Payment Gateway System" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="809.9961538461537" width="66.924" height="133.84384615384616" as="geometry" />
+        </mxCell>
+        <mxCell id="N690Rj-D5nCbPYyqFjpt-134" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="N690Rj-D5nCbPYyqFjpt-132" target="N690Rj-D5nCbPYyqFjpt-132">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
