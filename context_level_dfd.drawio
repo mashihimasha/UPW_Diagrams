@@ -1,35 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T06:50:05.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JQW1xv0-pBnLPJ-MespT" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T09:41:27.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mZWfNtxI6zv8cfFfinE-" version="21.6.2" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="733" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
+    <mxGraphModel dx="419" dy="211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="13" value="Management" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;labelBackgroundColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="LAr76dedplg_a-63oy3K-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.621;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.293;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#00994D;" edge="1" parent="1" source="LEWASo-noqgJ5dtIMuOe-100" target="LEWASo-noqgJ5dtIMuOe-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="396" y="1050" />
+              <mxPoint x="396" y="918" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LAr76dedplg_a-63oy3K-30" value="Register with details" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="LAr76dedplg_a-63oy3K-29">
+          <mxGeometry x="0.3412" y="-5" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LEWASo-noqgJ5dtIMuOe-100" value="Retail&#xa;Customer" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#FFFFCC;labelBackgroundColor=none;rounded=1;fillOpacity=100;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1123" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Management" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#FFFFCC;labelBackgroundColor=none;rounded=1;fillOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="601" y="650" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="15" value="Vendors" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;labelBackgroundColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="15" value="Vendors" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#FFFFCC;labelBackgroundColor=none;rounded=1;fillOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="772" y="721" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LEWASo-noqgJ5dtIMuOe-97" value="Administrator" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="LEWASo-noqgJ5dtIMuOe-97" value="Administrator" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;labelBackgroundColor=none;rounded=1;fillOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="843" y="892" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LEWASo-noqgJ5dtIMuOe-98" value="Pharmacist" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="LEWASo-noqgJ5dtIMuOe-98" value="Pharmacist" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;labelBackgroundColor=none;rounded=1;fillOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="772" y="1063" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LEWASo-noqgJ5dtIMuOe-99" value="Wholesale Customer" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="LEWASo-noqgJ5dtIMuOe-99" value="Wholesale Customer" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#FFFFCC;labelBackgroundColor=none;rounded=1;fillOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="601" y="1134" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LEWASo-noqgJ5dtIMuOe-100" value="Retail&#xa;Customer" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1063" width="95" height="63.33" as="geometry" />
+        <mxCell id="LAr76dedplg_a-63oy3K-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.079;exitY=0.01;exitDx=0;exitDy=0;strokeWidth=2;fillOpacity=100;strokeColor=#00994D;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;elbow=vertical;" edge="1" parent="1" source="LEWASo-noqgJ5dtIMuOe-100" target="LEWASo-noqgJ5dtIMuOe-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="859" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="LEWASo-noqgJ5dtIMuOe-101" value="Pharmacy Management System" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="359" y="892" width="90" height="60" as="geometry" />
+        <mxCell id="LAr76dedplg_a-63oy3K-26" value="Login with credentials" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LAr76dedplg_a-63oy3K-15">
+          <mxGeometry x="0.4595" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="LEWASo-noqgJ5dtIMuOe-102" value="Payment Gateway" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="LAr76dedplg_a-63oy3K-17" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#B20000;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.206;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LEWASo-noqgJ5dtIMuOe-126" target="LEWASo-noqgJ5dtIMuOe-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1128" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LAr76dedplg_a-63oy3K-28" value="Invalid Login" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LAr76dedplg_a-63oy3K-17">
+          <mxGeometry x="-0.4333" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LEWASo-noqgJ5dtIMuOe-101" value="Pharmacy Management System" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#FFFFCC;labelBackgroundColor=none;rounded=1;fillOpacity=100;" parent="1" vertex="1">
+          <mxGeometry x="140" y="960" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LEWASo-noqgJ5dtIMuOe-102" value="Payment Gateway" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#FFFFCC;labelBackgroundColor=none;rounded=1;fillOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="430" y="721" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LEWASo-noqgJ5dtIMuOe-126" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration: underline; font-size: 14px;&quot;&gt;0&lt;/p&gt;&lt;hr style=&quot;font-size: 14px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 14px;&quot;&gt;United Pharma&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 14px;&quot;&gt;Web Application&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="578.78" y="867" width="134.44" height="110" as="geometry" />
+        <mxCell id="LAr76dedplg_a-63oy3K-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#B20000;entryX=0.132;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="LEWASo-noqgJ5dtIMuOe-126" target="LEWASo-noqgJ5dtIMuOe-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="576.7702399999998" y="888.3699999999999" as="sourcePoint" />
+            <mxPoint x="380" y="1127" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="365" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LAr76dedplg_a-63oy3K-27" value="Successfully Login" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LAr76dedplg_a-63oy3K-19">
+          <mxGeometry x="-0.4522" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LEWASo-noqgJ5dtIMuOe-126" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration: underline; font-size: 14px;&quot;&gt;0&lt;/p&gt;&lt;hr style=&quot;font-size: 14px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 14px;&quot;&gt;United Pharma&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 14px;&quot;&gt;Web Application&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=2;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;labelBackgroundColor=none;fillOpacity=100;" parent="1" vertex="1">
+          <mxGeometry x="578.78" y="820" width="251.22" height="157" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
