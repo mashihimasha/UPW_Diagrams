@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T11:19:03.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="p-mtDLDdPQ6trpsk0-eh" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T11:21:24.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Ktb2Z09PqDH_MdS8V_fH" version="21.6.2" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="489" dy="247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
+    <mxGraphModel dx="587" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,6 +208,21 @@
         <mxCell id="LAr76dedplg_a-63oy3K-61" value="Product catalog" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=1;" vertex="1" connectable="0" parent="LAr76dedplg_a-63oy3K-60">
           <mxGeometry x="-0.4333" y="-3" relative="1" as="geometry">
             <mxPoint x="-12" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LAr76dedplg_a-63oy3K-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.877;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#001DBC;fillColor=#0050ef;entryX=0.008;entryY=0.918;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LEWASo-noqgJ5dtIMuOe-100" target="LEWASo-noqgJ5dtIMuOe-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="466" y="1132" as="sourcePoint" />
+            <mxPoint x="683" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="507" y="980" />
+              <mxPoint x="672" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LAr76dedplg_a-63oy3K-66" value="Product review" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LAr76dedplg_a-63oy3K-65">
+          <mxGeometry x="0.3908" y="2" relative="1" as="geometry">
+            <mxPoint x="-19" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
