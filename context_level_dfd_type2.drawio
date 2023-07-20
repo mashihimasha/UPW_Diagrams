@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T21:00:06.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PU_gnv_Y0DKBDIz5aFRR" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T21:00:51.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9aevYFupHHmGJgmqVw02" version="21.6.3" type="github">
   <diagram name="Page-1" id="pYwqx6_54ab_iyhjf2lH">
-    <mxGraphModel dx="2200" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="489" dy="215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,7 +166,7 @@
         </mxCell>
         <mxCell id="a4P0Azsb3X2dIq1lNgme-208" value="Order details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=1;" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-207">
           <mxGeometry x="-0.4333" y="-3" relative="1" as="geometry">
-            <mxPoint x="-8" y="-1" as="offset" />
+            <mxPoint x="-8" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a4P0Azsb3X2dIq1lNgme-209" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#990000;elbow=vertical;sourcePerimeterSpacing=0;" edge="1" parent="1" source="a4P0Azsb3X2dIq1lNgme-201" target="a4P0Azsb3X2dIq1lNgme-185">
