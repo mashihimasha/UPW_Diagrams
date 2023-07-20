@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T14:24:41.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IC5yrL5W1bnl_pxIdGtx" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T14:25:31.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lZFF9Un6128rzJL0jog8" version="21.6.3" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="503" dy="254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1328,6 +1328,20 @@
         <mxCell id="pZ8wgv_tJzKEuMe7ARl0-40" value="Cart details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=1;" vertex="1" connectable="0" parent="pZ8wgv_tJzKEuMe7ARl0-39">
           <mxGeometry x="-0.4333" y="-3" relative="1" as="geometry">
             <mxPoint x="-54" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#3333FF;targetPerimeterSpacing=0;" edge="1" parent="1" source="LEWASo-noqgJ5dtIMuOe-100" target="LEWASo-noqgJ5dtIMuOe-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="760" as="targetPoint" />
+            <mxPoint x="383" y="1033" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="383" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-45" value="Search products" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pZ8wgv_tJzKEuMe7ARl0-44">
+          <mxGeometry x="-0.5134" y="-1" relative="1" as="geometry">
+            <mxPoint x="159" y="-139" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
