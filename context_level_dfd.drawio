@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T08:58:45.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="i9ss30cVQcMIO1TUq7cp" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T09:01:29.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cyVtmXE2DMTstb5BAvf2" version="21.6.3" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="587" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
+    <mxGraphModel dx="489" dy="247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -881,7 +881,7 @@
         </mxCell>
         <mxCell id="E3Vmbv4oXaT4UGgoNopd-107" value="View account details&amp;nbsp;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="E3Vmbv4oXaT4UGgoNopd-106" vertex="1" connectable="0">
           <mxGeometry x="0.2794" y="2" relative="1" as="geometry">
-            <mxPoint x="81" y="-2" as="offset" />
+            <mxPoint x="105" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HUjeN2934BUZA1-0CvoF-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#990000;elbow=vertical;targetPerimeterSpacing=0;" parent="1" edge="1">
@@ -1148,6 +1148,37 @@
         <mxCell id="pZ8wgv_tJzKEuMe7ARl0-9" value="Account details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pZ8wgv_tJzKEuMe7ARl0-8">
           <mxGeometry x="-0.2688" relative="1" as="geometry">
             <mxPoint x="35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#001DBC;elbow=vertical;sourcePerimeterSpacing=0;" edge="1" parent="1" source="LEWASo-noqgJ5dtIMuOe-99" target="LEWASo-noqgJ5dtIMuOe-126">
+          <mxGeometry x="0.0724" relative="1" as="geometry">
+            <mxPoint x="1026.9999999999998" y="1562" as="sourcePoint" />
+            <mxPoint x="782" y="999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1027" y="1212" />
+              <mxPoint x="782" y="1212" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-13" value="Update account details&amp;nbsp;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="pZ8wgv_tJzKEuMe7ARl0-12">
+          <mxGeometry x="0.2794" y="2" relative="1" as="geometry">
+            <mxPoint x="125" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#990000;fillColor=#e51400;sourcePerimeterSpacing=0;" edge="1" parent="1" source="LEWASo-noqgJ5dtIMuOe-126" target="LEWASo-noqgJ5dtIMuOe-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="773.76362" y="982.785" as="sourcePoint" />
+            <mxPoint x="1017" y="1567" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="774" y="1225" />
+              <mxPoint x="1017" y="1225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-15" value="Update account details response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pZ8wgv_tJzKEuMe7ARl0-14">
+          <mxGeometry x="-0.2688" relative="1" as="geometry">
+            <mxPoint x="54" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
