@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T20:09:33.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sSsyzwcWZKnKM2iu0gQm" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T20:14:10.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="l2jjtPVO9ms5foKOFOhD" version="21.6.3" type="github">
   <diagram name="Page-1" id="pYwqx6_54ab_iyhjf2lH">
-    <mxGraphModel dx="1257" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="587" dy="258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,7 +264,7 @@
         </mxCell>
         <mxCell id="a4P0Azsb3X2dIq1lNgme-222" value="Confirm Prescription orders&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-221">
           <mxGeometry x="-0.2258" relative="1" as="geometry">
-            <mxPoint x="94" as="offset" />
+            <mxPoint x="125" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a4P0Azsb3X2dIq1lNgme-223" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#990000;elbow=vertical;targetPerimeterSpacing=0;entryX=0.008;entryY=0.699;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a4P0Azsb3X2dIq1lNgme-201">
@@ -319,9 +319,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a4P0Azsb3X2dIq1lNgme-230" value="Generate Invoices&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-229">
+        <mxCell id="a4P0Azsb3X2dIq1lNgme-230" value="Request for Order Invoices&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-229">
           <mxGeometry x="-0.2258" relative="1" as="geometry">
-            <mxPoint x="73" as="offset" />
+            <mxPoint x="116" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a4P0Azsb3X2dIq1lNgme-231" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#001DBC;elbow=vertical;sourcePerimeterSpacing=0;" edge="1" parent="1" target="a4P0Azsb3X2dIq1lNgme-201">
@@ -352,7 +352,7 @@
         </mxCell>
         <mxCell id="a4P0Azsb3X2dIq1lNgme-234" value="Registration Response&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-233">
           <mxGeometry x="0.4746" y="-3" relative="1" as="geometry">
-            <mxPoint x="-91" y="-3" as="offset" />
+            <mxPoint x="-112" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a4P0Azsb3X2dIq1lNgme-235" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#001DBC;elbow=vertical;sourcePerimeterSpacing=0;" edge="1" parent="1" target="a4P0Azsb3X2dIq1lNgme-201">
@@ -397,7 +397,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a4P0Azsb3X2dIq1lNgme-240" value="Product available list" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-239">
+        <mxCell id="a4P0Azsb3X2dIq1lNgme-240" value="Available product list" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-239">
           <mxGeometry x="-0.0807" y="-3" relative="1" as="geometry">
             <mxPoint x="22" y="-2" as="offset" />
           </mxGeometry>
@@ -429,7 +429,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a4P0Azsb3X2dIq1lNgme-244" value="Generate Order Invoice" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-243">
+        <mxCell id="a4P0Azsb3X2dIq1lNgme-244" value="Request for Order Invoice" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-243">
           <mxGeometry x="-0.2258" relative="1" as="geometry">
             <mxPoint x="-2" y="1" as="offset" />
           </mxGeometry>
@@ -572,7 +572,7 @@
         </mxCell>
         <mxCell id="a4P0Azsb3X2dIq1lNgme-260" value="Update articles" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-259">
           <mxGeometry x="-0.2258" relative="1" as="geometry">
-            <mxPoint x="-94" as="offset" />
+            <mxPoint x="-96" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a4P0Azsb3X2dIq1lNgme-261" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#001DBC;elbow=vertical;sourcePerimeterSpacing=0;exitX=-0.002;exitY=0.209;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.008;entryY=0.164;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a4P0Azsb3X2dIq1lNgme-186" target="a4P0Azsb3X2dIq1lNgme-201">
@@ -891,9 +891,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a4P0Azsb3X2dIq1lNgme-300" value="Invoices" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-299">
+        <mxCell id="a4P0Azsb3X2dIq1lNgme-300" value="Generate Invoices" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-299">
           <mxGeometry x="-0.2258" relative="1" as="geometry">
-            <mxPoint x="71" y="-38" as="offset" />
+            <mxPoint x="54" y="-39" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a4P0Azsb3X2dIq1lNgme-301" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#990000;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="a4P0Azsb3X2dIq1lNgme-201">
@@ -907,7 +907,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a4P0Azsb3X2dIq1lNgme-302" value="Order Invoice" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-301">
+        <mxCell id="a4P0Azsb3X2dIq1lNgme-302" value="Generate Order Invoice" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-301">
           <mxGeometry x="-0.2258" relative="1" as="geometry">
             <mxPoint x="195" y="1" as="offset" />
           </mxGeometry>
@@ -1021,7 +1021,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a4P0Azsb3X2dIq1lNgme-316" value="View&amp;nbsp; product quotation requests" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-315">
+        <mxCell id="a4P0Azsb3X2dIq1lNgme-316" value="Product quotation requests" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-315">
           <mxGeometry x="0.4746" y="-3" relative="1" as="geometry">
             <mxPoint x="10" y="-3" as="offset" />
           </mxGeometry>
@@ -1038,24 +1038,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a4P0Azsb3X2dIq1lNgme-318" value="View&amp;nbsp; product sample requests" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-317">
-          <mxGeometry x="0.4746" y="-3" relative="1" as="geometry">
-            <mxPoint x="-22" y="-5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a4P0Azsb3X2dIq1lNgme-319" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#e51400;strokeColor=#990000;elbow=vertical;targetPerimeterSpacing=0;" edge="1" parent="1" source="a4P0Azsb3X2dIq1lNgme-201" target="a4P0Azsb3X2dIq1lNgme-186">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="830" y="690" as="sourcePoint" />
-            <mxPoint x="1397" y="630.5999999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="829" y="620" />
-              <mxPoint x="890" y="620" />
-              <mxPoint x="890" y="540" />
-              <mxPoint x="1416" y="540" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a4P0Azsb3X2dIq1lNgme-320" value="View&amp;nbsp; product sample requests" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-319">
+        <mxCell id="a4P0Azsb3X2dIq1lNgme-318" value="Product sample requests" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a4P0Azsb3X2dIq1lNgme-317">
           <mxGeometry x="0.4746" y="-3" relative="1" as="geometry">
             <mxPoint x="-22" y="-5" as="offset" />
           </mxGeometry>
@@ -1209,8 +1192,8 @@
             <mxPoint x="1383" y="644" as="sourcePoint" />
             <mxPoint x="882" y="724" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1360" y="604" />
-              <mxPoint x="943" y="604" />
+              <mxPoint x="1360" y="610" />
+              <mxPoint x="943" y="610" />
               <mxPoint x="943" y="680" />
               <mxPoint x="883" y="680" />
             </Array>
