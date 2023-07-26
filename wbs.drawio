@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T17:20:06.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UIXHVh4cWBjjPzHhRCvc" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T17:20:38.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Qm55S3M_FE-EAYLSyAD1" version="21.6.5" type="github">
   <diagram name="Page-1" id="A3ZwRgTipRTVaRwJ3TqT">
     <mxGraphModel dx="5066" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yPEbqdjur7bi0oB6oJt5-6" value="UNITED PHARMA WEB APPLICATION" style="whiteSpace=wrap;rounded=1;shadow=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-1373" y="40" width="453.33" height="80" as="geometry" />
+        <mxCell id="yPEbqdjur7bi0oB6oJt5-6" value="UNITED PHARMA WEB APPLICATION" style="whiteSpace=wrap;rounded=1;shadow=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="-1373" y="40" width="400" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yPEbqdjur7bi0oB6oJt5-7" value="1 Project Management" style="whiteSpace=wrap;rounded=1;shadow=1;fontStyle=0;fontSize=26;fillColor=#FF3333;strokeColor=#990000;fontColor=#FFFFFF;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="-2243" y="303.9999999999998" width="220" height="90" as="geometry" />
