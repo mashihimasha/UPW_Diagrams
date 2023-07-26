@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T16:34:36.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tiJYn6KP0cWdJyC5W2JK" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T16:36:06.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dXJV3iviZbRo0oyvhWgQ" version="21.6.5" type="github">
   <diagram name="Page-1" id="A3ZwRgTipRTVaRwJ3TqT">
     <mxGraphModel dx="3154" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -7,23 +7,23 @@
         <mxCell id="yPEbqdjur7bi0oB6oJt5-6" value="UNITED PHARMA WEB APPLICATION" style="whiteSpace=wrap;rounded=1;shadow=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="-200" y="410" width="453.33" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yPEbqdjur7bi0oB6oJt5-7" value="1 Project Initiation" style="whiteSpace=wrap;rounded=1;shadow=1;fontStyle=0;fontSize=22;fillColor=#FF3333;strokeColor=#990000;fontColor=#FFFFFF;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-980" y="769.9999999999998" width="200" height="80" as="geometry" />
+        <mxCell id="yPEbqdjur7bi0oB6oJt5-7" value="1 Project Initiation" style="whiteSpace=wrap;rounded=1;shadow=1;fontStyle=0;fontSize=24;fillColor=#FF3333;strokeColor=#990000;fontColor=#FFFFFF;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="672.9999999999998" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yPEbqdjur7bi0oB6oJt5-8" value="2 Requirement Gathering and Analysis" style="whiteSpace=wrap;rounded=1;shadow=1;fontStyle=0;fontSize=22;fillColor=#FF3333;strokeColor=#990000;fontColor=#FFFFFF;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="769.9999999999998" width="200" height="80" as="geometry" />
+        <mxCell id="yPEbqdjur7bi0oB6oJt5-8" value="2 Requirement Gathering and Analysis" style="whiteSpace=wrap;rounded=1;shadow=1;fontStyle=0;fontSize=24;fillColor=#FF3333;strokeColor=#990000;fontColor=#FFFFFF;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="672.9999999999998" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yPEbqdjur7bi0oB6oJt5-9" value="6 Deployment" style="whiteSpace=wrap;rounded=1;shadow=1;fontStyle=0;fontSize=22;fillColor=#FF3333;strokeColor=#990000;fontColor=#FFFFFF;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="870" y="769.9999999999998" width="200" height="80" as="geometry" />
+        <mxCell id="yPEbqdjur7bi0oB6oJt5-9" value="6 Deployment" style="whiteSpace=wrap;rounded=1;shadow=1;fontStyle=0;fontSize=24;fillColor=#FF3333;strokeColor=#990000;fontColor=#FFFFFF;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="870" y="672.9999999999998" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yPEbqdjur7bi0oB6oJt5-10" value="3 Design and Architecture" style="whiteSpace=wrap;rounded=1;shadow=1;fontStyle=0;fontSize=22;fillColor=#FF3333;strokeColor=#990000;fontColor=#FFFFFF;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="769.9999999999998" width="200" height="80" as="geometry" />
+        <mxCell id="yPEbqdjur7bi0oB6oJt5-10" value="3 Design and Architecture" style="whiteSpace=wrap;rounded=1;shadow=1;fontStyle=0;fontSize=24;fillColor=#FF3333;strokeColor=#990000;fontColor=#FFFFFF;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="672.9999999999998" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yPEbqdjur7bi0oB6oJt5-11" value="4 Development" style="whiteSpace=wrap;rounded=1;shadow=1;fontStyle=0;fontSize=22;fillColor=#FF3333;strokeColor=#990000;fontColor=#FFFFFF;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="130" y="769.9999999999998" width="200" height="80" as="geometry" />
+        <mxCell id="yPEbqdjur7bi0oB6oJt5-11" value="4 Development" style="whiteSpace=wrap;rounded=1;shadow=1;fontStyle=0;fontSize=24;fillColor=#FF3333;strokeColor=#990000;fontColor=#FFFFFF;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="130" y="672.9999999999998" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yPEbqdjur7bi0oB6oJt5-12" value="5 Testing and Quality Assurance" style="whiteSpace=wrap;rounded=1;shadow=1;fontStyle=0;fontSize=22;fillColor=#FF3333;strokeColor=#990000;fontColor=#FFFFFF;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="500" y="769.9999999999998" width="200" height="80" as="geometry" />
+        <mxCell id="yPEbqdjur7bi0oB6oJt5-12" value="5 Testing and Quality Assurance" style="whiteSpace=wrap;rounded=1;shadow=1;fontStyle=0;fontSize=24;fillColor=#FF3333;strokeColor=#990000;fontColor=#FFFFFF;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="500" y="672.9999999999998" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yPEbqdjur7bi0oB6oJt5-13" value="SUB-TASK 1" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-1070" y="900.0000000000001" width="120" height="60" as="geometry" />
