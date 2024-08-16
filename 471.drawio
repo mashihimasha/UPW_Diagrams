@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="mJqCjJkcsdnNDaewhTTc">
-    <mxGraphModel dx="607" dy="294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,8 +49,8 @@
             <mxPoint x="450" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
-          <mxGeometry x="280" y="600" width="90" height="30" as="geometry" />
+        <mxCell id="IS47KzOUH4WITXXJGDpX-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;fontSize=11;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+          <mxGeometry x="285" y="605" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IS47KzOUH4WITXXJGDpX-14" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;fontSize=11;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="205" y="410" width="80" height="30" as="geometry" />
@@ -73,7 +73,7 @@
             <mxPoint x="213" y="308" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-20" value="Set Visibility to students or not" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-20" value="Set visibility to students" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="180" y="590" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IS47KzOUH4WITXXJGDpX-21" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
