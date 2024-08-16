@@ -1,28 +1,28 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="mJqCjJkcsdnNDaewhTTc">
-    <mxGraphModel dx="652" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IS47KzOUH4WITXXJGDpX-1" value="Internship/Job Opportunity Portal of the Faculty of Science" style="swimlane;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="210" y="200" width="530" height="980" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-2" value="Create Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-2" value="Create Account" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="40" y="50" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-3" value="Search Jobs/Internship posting" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-3" value="Search Jobs/Internship posting" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="35" y="190" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-4" value="Add Profile Details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-4" value="Add Profile Details" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="210" y="50" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-5" value="Filter Jobs/Internship postings" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-5" value="Filter Jobs/Internship postings" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="40" y="260" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-6" value="View Job/Internship Postings" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-6" value="View Job/Internship Postings" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="40" y="330" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-7" value="Request Lecture Recommendation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-7" value="Request Lecture Recommendation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="40" y="470" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IS47KzOUH4WITXXJGDpX-8" value="" style="endArrow=classic;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;startArrow=none;startFill=0;endFill=1;" edge="1" parent="IS47KzOUH4WITXXJGDpX-1" source="IS47KzOUH4WITXXJGDpX-2">
@@ -58,13 +58,13 @@
         <mxCell id="IS47KzOUH4WITXXJGDpX-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="IS47KzOUH4WITXXJGDpX-1" source="IS47KzOUH4WITXXJGDpX-15" target="IS47KzOUH4WITXXJGDpX-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-15" value="Create Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-15" value="Create Account" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="40" y="635" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-16" value="View Student Profiles" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-16" value="View Student Profiles" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="40" y="710" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-17" value="Post Job Opportunities" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-17" value="Post Job Opportunities" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="40" y="780" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IS47KzOUH4WITXXJGDpX-19" value="" style="endArrow=classic;dashed=1;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.023;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;jumpStyle=gap;endFill=1;" edge="1" parent="IS47KzOUH4WITXXJGDpX-1" source="IS47KzOUH4WITXXJGDpX-15" target="IS47KzOUH4WITXXJGDpX-29">
@@ -73,13 +73,13 @@
             <mxPoint x="213" y="308" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-20" value="Set visibility to students" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-20" value="Set visibility to students" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="180" y="590" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-21" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-21" value="Login" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="40" y="120" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-22" value="Verification" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-22" value="Verification" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="380" y="50" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IS47KzOUH4WITXXJGDpX-23" value="" style="endArrow=classic;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endFill=1;" edge="1" parent="IS47KzOUH4WITXXJGDpX-1" source="IS47KzOUH4WITXXJGDpX-4" target="IS47KzOUH4WITXXJGDpX-22">
@@ -91,28 +91,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-24" value="Manage Profile Details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-24" value="Manage Profile Details" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="380" y="140" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IS47KzOUH4WITXXJGDpX-25" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=35;fontSize=11;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="300" y="110" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-27" value="Provide Recomendation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-27" value="Provide Recomendation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="360" y="605" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-28" value="Manage Job Opportunities" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-28" value="Manage Job Opportunities" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="40" y="860" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-29" value="Account Approve" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-29" value="Account Approve" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="410" y="320" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-30" value="Scrape Job Opportunities" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-30" value="Scrape Job Opportunities" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="360" y="740" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-51" value="View Employers" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-51" value="View Employers" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="40" y="395" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-55" value="View User Feedback" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-55" value="View User Feedback" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="360" y="540" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IS47KzOUH4WITXXJGDpX-61" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;jumpStyle=gap;endFill=0;" edge="1" parent="IS47KzOUH4WITXXJGDpX-1" source="IS47KzOUH4WITXXJGDpX-17" target="IS47KzOUH4WITXXJGDpX-30">
@@ -124,7 +124,7 @@
         <mxCell id="IS47KzOUH4WITXXJGDpX-60" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-10;fontSize=11;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="215" y="766" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IS47KzOUH4WITXXJGDpX-65" value="Reply to inquiries" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
+        <mxCell id="IS47KzOUH4WITXXJGDpX-65" value="Reply to inquiries" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="IS47KzOUH4WITXXJGDpX-1">
           <mxGeometry x="360" y="470" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IS47KzOUH4WITXXJGDpX-31" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rotation=-2;" vertex="1" parent="1">
