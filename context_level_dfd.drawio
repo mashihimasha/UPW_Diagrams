@@ -69,7 +69,7 @@
             <mxPoint x="-17" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LEWASo-noqgJ5dtIMuOe-101" value="Pharmacist" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#009999;labelBackgroundColor=none;rounded=1;fillOpacity=100;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="LEWASo-noqgJ5dtIMuOe-101" value="Lecturer" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#009999;labelBackgroundColor=none;rounded=1;fillOpacity=100;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1080" y="360" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LEWASo-noqgJ5dtIMuOe-102" value="Payment Gateway" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#009999;labelBackgroundColor=none;rounded=1;fillOpacity=100;fontColor=#FFFFFF;" parent="1" vertex="1">
