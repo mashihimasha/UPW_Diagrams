@@ -1801,6 +1801,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-115" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration: underline; font-size: 16px;&quot;&gt;0&lt;/p&gt;&lt;hr style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;User Management&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=16;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=2;labelBackgroundColor=none;fillOpacity=100;fillColor=#0050ef;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="708.39" y="3027" width="291.22" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-116" value="Student" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#009999;labelBackgroundColor=none;rounded=1;fillOpacity=100;fontSize=16;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="3051" width="190" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-117" value="Employer" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#009999;labelBackgroundColor=none;rounded=1;fillOpacity=100;fontSize=16;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="759" y="3407" width="190" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-118" value="Lecturer" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#009999;labelBackgroundColor=none;rounded=1;fillOpacity=100;fontSize=16;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="3051" width="190" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-119" value="Administrator" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#009999;labelBackgroundColor=none;rounded=1;fillOpacity=100;fontSize=16;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="759" y="2737" width="190" height="97" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
