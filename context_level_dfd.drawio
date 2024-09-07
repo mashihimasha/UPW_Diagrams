@@ -1326,7 +1326,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-10" value="Job Search Criteria" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-8">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-10" value="Job Search/Filter Criteria" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2283,7 +2283,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-226" value="Registration Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-225">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-226" value="Search Keywords" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-225">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2316,7 +2316,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-231" value="Profile Confirmation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-230">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-231" value="Filtered Job Postings" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-230">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2345,7 +2345,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-235" value="Login Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-234">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-235" value="Filter Criteria" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-234">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
