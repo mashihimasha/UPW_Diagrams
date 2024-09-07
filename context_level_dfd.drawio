@@ -2562,9 +2562,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-266" value="User Details" style="edgeLabel;html=1;align=left;verticalAlign=top;resizable=0;points=[];rotation=-90;horizontal=1;textDirection=vertical-lr;labelPosition=right;verticalLabelPosition=bottom;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-265">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-266" value="Job/Internship Details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;horizontal=1;textDirection=vertical-lr;labelPosition=center;verticalLabelPosition=middle;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-265">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="10" as="offset" />
+            <mxPoint x="34" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NWP8D9czqfOdyR0PPSlM-267" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NWP8D9czqfOdyR0PPSlM-224" target="NWP8D9czqfOdyR0PPSlM-290">
@@ -2577,7 +2577,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-268" value="User Details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=1;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-267">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-268" value="Job/Internship Details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=1;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-267">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="52" as="offset" />
           </mxGeometry>
@@ -2716,7 +2716,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NWP8D9czqfOdyR0PPSlM-289" value="" style="group;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1054" y="4230" width="150" height="45" as="geometry" />
+          <mxGeometry x="1120" y="4240" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="NWP8D9czqfOdyR0PPSlM-290" value="&lt;b&gt;D1&lt;/b&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="NWP8D9czqfOdyR0PPSlM-289">
           <mxGeometry width="149.99999999999997" height="45" as="geometry" />
