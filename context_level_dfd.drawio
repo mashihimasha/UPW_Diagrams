@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="774" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1626" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2358,9 +2358,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-237" value="Job/Internship Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-236">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-237" value="Job/Internship Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;horizontal=1;textDirection=vertical-lr;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-236">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-20" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NWP8D9czqfOdyR0PPSlM-238" value="Employer" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#b1ddf0;labelBackgroundColor=none;rounded=1;fillOpacity=100;fontSize=16;strokeColor=#10739e;" vertex="1" parent="1">
@@ -2406,7 +2406,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-270" value="Job Application" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-269">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-270" value="Job Application" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=1;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-269">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2421,9 +2421,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-274" value="Job Posting" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-273">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-274" value="Job Posting" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=1;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-273">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" y="37" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NWP8D9czqfOdyR0PPSlM-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NWP8D9czqfOdyR0PPSlM-224" target="NWP8D9czqfOdyR0PPSlM-227">
