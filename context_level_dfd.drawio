@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1257" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -770,7 +770,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Vmbv4oXaT4UGgoNopd-94" value="Wholesale customer view" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="E3Vmbv4oXaT4UGgoNopd-93" vertex="1" connectable="0">
+        <mxCell id="E3Vmbv4oXaT4UGgoNopd-94" value="Employer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="E3Vmbv4oXaT4UGgoNopd-93" vertex="1" connectable="0">
           <mxGeometry x="-0.2688" relative="1" as="geometry">
             <mxPoint x="128" y="96" as="offset" />
           </mxGeometry>
@@ -833,7 +833,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Vmbv4oXaT4UGgoNopd-103" value="Request product samples" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="E3Vmbv4oXaT4UGgoNopd-102" vertex="1" connectable="0">
+        <mxCell id="E3Vmbv4oXaT4UGgoNopd-103" value="Update Intern/Job Opportunity" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="E3Vmbv4oXaT4UGgoNopd-102" vertex="1" connectable="0">
           <mxGeometry x="0.2794" y="2" relative="1" as="geometry">
             <mxPoint x="170" y="-1" as="offset" />
           </mxGeometry>
@@ -1189,7 +1189,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-24" value="Product sample request reply" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pZ8wgv_tJzKEuMe7ARl0-23" vertex="1" connectable="0">
+        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-24" value="Update Intern/Job Opportunity" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pZ8wgv_tJzKEuMe7ARl0-23" vertex="1" connectable="0">
           <mxGeometry x="-0.2688" relative="1" as="geometry">
             <mxPoint x="88" as="offset" />
           </mxGeometry>
@@ -1205,7 +1205,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-26" value="Request product quotations" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="pZ8wgv_tJzKEuMe7ARl0-25" vertex="1" connectable="0">
+        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-26" value="Add New Intern/Job Opportunity" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="pZ8wgv_tJzKEuMe7ARl0-25" vertex="1" connectable="0">
           <mxGeometry x="0.2794" y="2" relative="1" as="geometry">
             <mxPoint x="161" y="24" as="offset" />
           </mxGeometry>
@@ -1220,7 +1220,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-28" value="Product quotation request reply" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pZ8wgv_tJzKEuMe7ARl0-27" vertex="1" connectable="0">
+        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-28" value="New Intern/Job Opportunity Post" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pZ8wgv_tJzKEuMe7ARl0-27" vertex="1" connectable="0">
           <mxGeometry x="-0.2688" relative="1" as="geometry">
             <mxPoint x="74" y="29" as="offset" />
           </mxGeometry>
