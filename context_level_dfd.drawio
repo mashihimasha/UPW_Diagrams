@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="733" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
+    <mxGraphModel dx="821" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -755,11 +755,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Vmbv4oXaT4UGgoNopd-92" value="Login" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="E3Vmbv4oXaT4UGgoNopd-91" vertex="1" connectable="0">
-          <mxGeometry x="0.2794" y="2" relative="1" as="geometry">
-            <mxPoint x="182" y="84" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="E3Vmbv4oXaT4UGgoNopd-93" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#990000;fillColor=#e51400;sourcePerimeterSpacing=0;" parent="1" source="LEWASo-noqgJ5dtIMuOe-126" target="LEWASo-noqgJ5dtIMuOe-99" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="662.4415399999999" y="877.3140000000001" as="sourcePoint" />
@@ -768,11 +763,6 @@
               <mxPoint x="670" y="1270" />
               <mxPoint x="910" y="1270" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E3Vmbv4oXaT4UGgoNopd-94" value="Employer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="E3Vmbv4oXaT4UGgoNopd-93" vertex="1" connectable="0">
-          <mxGeometry x="-0.2688" relative="1" as="geometry">
-            <mxPoint x="128" y="96" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E3Vmbv4oXaT4UGgoNopd-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#001DBC;elbow=vertical;sourcePerimeterSpacing=0;" parent="1" source="LEWASo-noqgJ5dtIMuOe-99" target="LEWASo-noqgJ5dtIMuOe-126" edge="1">
@@ -801,7 +791,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Vmbv4oXaT4UGgoNopd-98" value="Registration Response&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="E3Vmbv4oXaT4UGgoNopd-97" vertex="1" connectable="0">
+        <mxCell id="E3Vmbv4oXaT4UGgoNopd-98" value="Registration Link" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="E3Vmbv4oXaT4UGgoNopd-97" vertex="1" connectable="0">
           <mxGeometry x="-0.2688" relative="1" as="geometry">
             <mxPoint x="96" y="68" as="offset" />
           </mxGeometry>
@@ -849,7 +839,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Vmbv4oXaT4UGgoNopd-105" value="View wholesale products&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="E3Vmbv4oXaT4UGgoNopd-104" vertex="1" connectable="0">
+        <mxCell id="E3Vmbv4oXaT4UGgoNopd-105" value="View Student Profile&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="E3Vmbv4oXaT4UGgoNopd-104" vertex="1" connectable="0">
           <mxGeometry x="0.2794" y="2" relative="1" as="geometry">
             <mxPoint x="147" y="-2" as="offset" />
           </mxGeometry>
@@ -865,7 +855,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Vmbv4oXaT4UGgoNopd-107" value="View account details&amp;nbsp;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="E3Vmbv4oXaT4UGgoNopd-106" vertex="1" connectable="0">
+        <mxCell id="E3Vmbv4oXaT4UGgoNopd-107" value="Search Students" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="E3Vmbv4oXaT4UGgoNopd-106" vertex="1" connectable="0">
           <mxGeometry x="0.2794" y="2" relative="1" as="geometry">
             <mxPoint x="105" y="-2" as="offset" />
           </mxGeometry>
@@ -1094,7 +1084,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-9" value="Account details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pZ8wgv_tJzKEuMe7ARl0-8" vertex="1" connectable="0">
+        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-9" value="Student Profile" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pZ8wgv_tJzKEuMe7ARl0-8" vertex="1" connectable="0">
           <mxGeometry x="-0.2688" relative="1" as="geometry">
             <mxPoint x="35" as="offset" />
           </mxGeometry>
@@ -1110,7 +1100,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-13" value="Update account details&amp;nbsp;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="pZ8wgv_tJzKEuMe7ARl0-12" vertex="1" connectable="0">
+        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-13" value="Student Profiles" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="pZ8wgv_tJzKEuMe7ARl0-12" vertex="1" connectable="0">
           <mxGeometry x="0.2794" y="2" relative="1" as="geometry">
             <mxPoint x="125" y="-2" as="offset" />
           </mxGeometry>
@@ -1125,7 +1115,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-15" value="Update account details response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pZ8wgv_tJzKEuMe7ARl0-14" vertex="1" connectable="0">
+        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-15" value="Student Profile List" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pZ8wgv_tJzKEuMe7ARl0-14" vertex="1" connectable="0">
           <mxGeometry x="-0.2688" relative="1" as="geometry">
             <mxPoint x="54" as="offset" />
           </mxGeometry>
@@ -1140,7 +1130,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-17" value="Wholesale product details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pZ8wgv_tJzKEuMe7ARl0-16" vertex="1" connectable="0">
+        <mxCell id="pZ8wgv_tJzKEuMe7ARl0-17" value="Student Profile" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pZ8wgv_tJzKEuMe7ARl0-16" vertex="1" connectable="0">
           <mxGeometry x="-0.2688" relative="1" as="geometry">
             <mxPoint x="34" as="offset" />
           </mxGeometry>
@@ -1321,6 +1311,47 @@
         <mxCell id="aPEH6FTs-ek6_SA1T8kD-12" value="Intern/Job Opportunities" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=1;" vertex="1" connectable="0" parent="aPEH6FTs-ek6_SA1T8kD-11">
           <mxGeometry x="-0.4333" y="-3" relative="1" as="geometry">
             <mxPoint x="-3" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPEH6FTs-ek6_SA1T8kD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#001DBC;elbow=vertical;sourcePerimeterSpacing=0;" edge="1" parent="1" source="LEWASo-noqgJ5dtIMuOe-99" target="LEWASo-noqgJ5dtIMuOe-126">
+          <mxGeometry x="0.0724" relative="1" as="geometry">
+            <mxPoint x="931" y="1450" as="sourcePoint" />
+            <mxPoint x="690" y="887" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="1300" />
+              <mxPoint x="654" y="1300" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPEH6FTs-ek6_SA1T8kD-15" value="Login" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="aPEH6FTs-ek6_SA1T8kD-14">
+          <mxGeometry x="0.2794" y="2" relative="1" as="geometry">
+            <mxPoint x="182" y="84" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPEH6FTs-ek6_SA1T8kD-16" value="Update Details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aPEH6FTs-ek6_SA1T8kD-14">
+          <mxGeometry x="-0.2901" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPEH6FTs-ek6_SA1T8kD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#990000;fillColor=#e51400;sourcePerimeterSpacing=0;" edge="1" parent="1" source="LEWASo-noqgJ5dtIMuOe-126" target="LEWASo-noqgJ5dtIMuOe-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="887" as="sourcePoint" />
+            <mxPoint x="920" y="1450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="1320" />
+              <mxPoint x="880" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPEH6FTs-ek6_SA1T8kD-18" value="Employer Profile" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="aPEH6FTs-ek6_SA1T8kD-17">
+          <mxGeometry x="-0.2688" relative="1" as="geometry">
+            <mxPoint x="128" y="96" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPEH6FTs-ek6_SA1T8kD-20" value="Updated Profile" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aPEH6FTs-ek6_SA1T8kD-17">
+          <mxGeometry x="0.335" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
