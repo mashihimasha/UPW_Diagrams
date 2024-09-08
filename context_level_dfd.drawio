@@ -2619,7 +2619,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-331" value="Application&amp;nbsp;&lt;div&gt;Notification&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-330">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-331" value="Job Application&amp;nbsp;&lt;div&gt;Notification&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-330">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
