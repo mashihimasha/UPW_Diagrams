@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="692" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
+    <mxGraphModel dx="590" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2520,7 +2520,7 @@
         <mxCell id="NWP8D9czqfOdyR0PPSlM-289" value="" style="group;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1222" y="3606" width="150" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-290" value="&lt;b&gt;D1&lt;/b&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="NWP8D9czqfOdyR0PPSlM-289">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-290" value="&lt;b&gt;D2&lt;/b&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="NWP8D9czqfOdyR0PPSlM-289">
           <mxGeometry width="149.99999999999997" height="45" as="geometry" />
         </mxCell>
         <mxCell id="NWP8D9czqfOdyR0PPSlM-291" value="Job/Internship Details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NWP8D9czqfOdyR0PPSlM-289">
@@ -2668,8 +2668,8 @@
             <mxPoint x="970" y="2889.94" as="sourcePoint" />
             <mxPoint x="1274" y="2903.94" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="970" y="2870" />
-              <mxPoint x="1274" y="2870" />
+              <mxPoint x="970" y="2890" />
+              <mxPoint x="1274" y="2890" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2689,6 +2689,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NWP8D9czqfOdyR0PPSlM-343" value="Activity Logs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-342">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-348" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NWP8D9czqfOdyR0PPSlM-1" target="NWP8D9czqfOdyR0PPSlM-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="1900.03" as="sourcePoint" />
+            <mxPoint x="759" y="1900.03" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="1840" />
+              <mxPoint x="840" y="1840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-349" value="Reports" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-348">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
