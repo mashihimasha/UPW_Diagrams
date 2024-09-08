@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="838" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1137" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1897,7 +1897,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-137" value="Profile Confirmation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-136">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-137" value="Registration Confirmation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-136">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2043,11 +2043,12 @@
             <mxPoint x="1380" y="2795" as="sourcePoint" />
             <mxPoint x="1360" y="2971" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1220" y="3025" />
+              <mxPoint x="1030" y="3010" />
+              <mxPoint x="1030" y="3010" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-173" value="Profile Confirmation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;textDirection=vertical-lr;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-172">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-173" value="Registration Confirmation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;textDirection=vertical-lr;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-172">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
