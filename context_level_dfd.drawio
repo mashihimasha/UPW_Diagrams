@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2653" dy="1420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
+    <mxGraphModel dx="531" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2060,8 +2060,8 @@
             <mxPoint x="899" y="2598.5172413793107" as="sourcePoint" />
             <mxPoint x="530" y="2601" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="840" y="2800" />
-              <mxPoint x="840" y="2800" />
+              <mxPoint x="860" y="2800" />
+              <mxPoint x="860" y="2800" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2093,8 +2093,8 @@
             <mxPoint x="899" y="2625.5172413793107" as="sourcePoint" />
             <mxPoint x="530" y="2661" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="880" y="2790" />
-              <mxPoint x="880" y="2790" />
+              <mxPoint x="900" y="2800" />
+              <mxPoint x="900" y="2800" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2123,8 +2123,8 @@
             <mxPoint x="899" y="2604" as="sourcePoint" />
             <mxPoint x="530" y="2621" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="860" y="2800" />
-              <mxPoint x="860" y="2800" />
+              <mxPoint x="880" y="2800" />
+              <mxPoint x="880" y="2800" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2403,14 +2403,14 @@
             <mxPoint x="911.61" y="3844.5172413793107" as="sourcePoint" />
             <mxPoint x="751.61" y="3727" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="790" y="3410" />
-              <mxPoint x="790" y="3410" />
+              <mxPoint x="770" y="3450" />
+              <mxPoint x="770" y="3450" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-237" value="Job/Internship Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;horizontal=1;textDirection=vertical-lr;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-236">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-237" value="Job/Internship Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;horizontal=1;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-236">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-20" y="-24" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NWP8D9czqfOdyR0PPSlM-238" value="Employer" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#b1ddf0;labelBackgroundColor=none;rounded=1;fillOpacity=100;fontSize=16;strokeColor=#10739e;" vertex="1" parent="1">
@@ -2451,12 +2451,12 @@
             <mxPoint x="856" y="3727" as="sourcePoint" />
             <mxPoint x="856" y="3910" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="830" y="3450" />
-              <mxPoint x="830" y="3450" />
+              <mxPoint x="810" y="3450" />
+              <mxPoint x="810" y="3450" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-270" value="Job Application" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=1;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-269">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-270" value="Job Application" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-269">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2466,14 +2466,14 @@
             <mxPoint x="886" y="3727" as="sourcePoint" />
             <mxPoint x="886" y="3910" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="870" y="3450" />
-              <mxPoint x="870" y="3450" />
+              <mxPoint x="850" y="3460" />
+              <mxPoint x="850" y="3460" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWP8D9czqfOdyR0PPSlM-274" value="Job Posting" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=1;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-273">
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-274" value="Job Posting" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-273">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4" y="37" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NWP8D9czqfOdyR0PPSlM-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NWP8D9czqfOdyR0PPSlM-224" target="NWP8D9czqfOdyR0PPSlM-227">
@@ -2593,6 +2593,36 @@
         </mxCell>
         <mxCell id="NWP8D9czqfOdyR0PPSlM-327" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;notification --&amp;gt; user managment , portal manage --&amp;gt; analytidc feedback, web scraping --&amp;gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1654" y="2794" width="796" height="516" as="geometry" />
+        </mxCell>
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-328" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NWP8D9czqfOdyR0PPSlM-224" target="NWP8D9czqfOdyR0PPSlM-227">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="716" y="3700" as="sourcePoint" />
+            <mxPoint x="300" y="2972" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="3710" />
+              <mxPoint x="210" y="2950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-329" value="Job Notification" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-328">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="172" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-330" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="3540" as="sourcePoint" />
+            <mxPoint x="890" y="3367" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="3460" />
+              <mxPoint x="890" y="3460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-331" value="Application&amp;nbsp;&lt;div&gt;Notification&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=0;" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-330">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
