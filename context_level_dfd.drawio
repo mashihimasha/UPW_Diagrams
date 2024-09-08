@@ -2691,6 +2691,19 @@
         <mxCell id="NWP8D9czqfOdyR0PPSlM-322" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 16px;&quot;&gt;3.0&lt;/p&gt;&lt;hr style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;Portal Management&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=16;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=2;labelBackgroundColor=none;fillOpacity=100;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="239.39" y="2555" width="291.22" height="187" as="geometry" />
         </mxCell>
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-389" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NWP8D9czqfOdyR0PPSlM-325" target="NWP8D9czqfOdyR0PPSlM-224">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1135" y="3483" />
+              <mxPoint x="970" y="3483" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NWP8D9czqfOdyR0PPSlM-391" value="Job Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NWP8D9czqfOdyR0PPSlM-389">
+          <mxGeometry x="-0.1648" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NWP8D9czqfOdyR0PPSlM-325" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 16px;&quot;&gt;4.0&lt;/p&gt;&lt;hr style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Web Scraping Jobs&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=16;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=2;labelBackgroundColor=none;fillOpacity=100;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="989.39" y="3240" width="291.22" height="187" as="geometry" />
         </mxCell>
