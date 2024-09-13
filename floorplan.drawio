@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="4bd5d27a-524c-7e24-5d5f-89a86ee4fca1">
-    <mxGraphModel dx="410" dy="213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1151,11 +1151,20 @@
         <mxCell id="ibsxyXEcNVTKywFEW7vz-89" value="" style="shape=mxgraph.cisco.computers_and_peripherals.terminal;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="ibsxyXEcNVTKywFEW7vz-27">
           <mxGeometry x="139" y="43" width="49.7" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="ibsxyXEcNVTKywFEW7vz-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ibsxyXEcNVTKywFEW7vz-27" source="ibsxyXEcNVTKywFEW7vz-90" target="ibsxyXEcNVTKywFEW7vz-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ibsxyXEcNVTKywFEW7vz-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="ibsxyXEcNVTKywFEW7vz-27" source="ibsxyXEcNVTKywFEW7vz-90" target="ibsxyXEcNVTKywFEW7vz-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="242" y="15" />
+              <mxPoint x="242" y="15" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ibsxyXEcNVTKywFEW7vz-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ibsxyXEcNVTKywFEW7vz-27" source="ibsxyXEcNVTKywFEW7vz-90" target="ibsxyXEcNVTKywFEW7vz-89">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ibsxyXEcNVTKywFEW7vz-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="ibsxyXEcNVTKywFEW7vz-27" source="ibsxyXEcNVTKywFEW7vz-90" target="ibsxyXEcNVTKywFEW7vz-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="229" y="65" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ibsxyXEcNVTKywFEW7vz-90" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="ibsxyXEcNVTKywFEW7vz-27">
           <mxGeometry x="229" y="43" width="40" height="40" as="geometry" />
