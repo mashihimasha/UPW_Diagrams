@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="4bd5d27a-524c-7e24-5d5f-89a86ee4fca1">
-    <mxGraphModel dx="978" dy="-1227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="-1372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -406,9 +406,6 @@
         <mxCell id="VmqLuruxpew99B8CEaRi-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png;clipPath=inset(0% 0% 0% 0%);aspect=fixed;" vertex="1" parent="ibsxyXEcNVTKywFEW7vz-59">
           <mxGeometry x="181.75" y="26" width="60" height="35.62" as="geometry" />
         </mxCell>
-        <mxCell id="VmqLuruxpew99B8CEaRi-3" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;clipPath=inset(0% 0% 0% 0%);aspect=fixed;" vertex="1" parent="ibsxyXEcNVTKywFEW7vz-59">
-          <mxGeometry x="146.75" y="106" width="40" height="21.26984126984127" as="geometry" />
-        </mxCell>
         <mxCell id="VmqLuruxpew99B8CEaRi-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="ibsxyXEcNVTKywFEW7vz-59" source="ibsxyXEcNVTKywFEW7vz-173" target="VmqLuruxpew99B8CEaRi-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3460" y="2200" as="sourcePoint" />
@@ -417,6 +414,22 @@
         </mxCell>
         <mxCell id="VmqLuruxpew99B8CEaRi-4" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;clipPath=inset(0% 0% 0% 0%);aspect=fixed;" vertex="1" parent="ibsxyXEcNVTKywFEW7vz-59">
           <mxGeometry x="276.75" y="96" width="40" height="21.26984126984127" as="geometry" />
+        </mxCell>
+        <mxCell id="VmqLuruxpew99B8CEaRi-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="ibsxyXEcNVTKywFEW7vz-59" source="VmqLuruxpew99B8CEaRi-3" target="VmqLuruxpew99B8CEaRi-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="292" y="106" as="sourcePoint" />
+            <mxPoint x="246" y="72" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VmqLuruxpew99B8CEaRi-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="ibsxyXEcNVTKywFEW7vz-59" source="ibsxyXEcNVTKywFEW7vz-173" target="VmqLuruxpew99B8CEaRi-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3451" y="2200" as="sourcePoint" />
+            <mxPoint x="3441" y="2096" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VmqLuruxpew99B8CEaRi-3" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;clipPath=inset(0% 0% 0% 0%);aspect=fixed;" vertex="1" parent="ibsxyXEcNVTKywFEW7vz-59">
+          <mxGeometry x="125.25" y="91" width="40" height="21.26984126984127" as="geometry" />
         </mxCell>
         <mxCell id="ibsxyXEcNVTKywFEW7vz-63" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2670" y="2035" width="409.5" height="407" as="geometry" />
