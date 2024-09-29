@@ -357,7 +357,7 @@
         <mxCell id="ibsxyXEcNVTKywFEW7vz-123" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.servers;" parent="ibsxyXEcNVTKywFEW7vz-59" vertex="1">
           <mxGeometry x="211.75" y="226" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ibsxyXEcNVTKywFEW7vz-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=5;fillColor=#b1ddf0;strokeColor=#10739e;" parent="ibsxyXEcNVTKywFEW7vz-59" source="ibsxyXEcNVTKywFEW7vz-173" target="ibsxyXEcNVTKywFEW7vz-60" edge="1">
+        <mxCell id="ibsxyXEcNVTKywFEW7vz-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=5;fillColor=#b1ddf0;strokeColor=#10739e;" parent="ibsxyXEcNVTKywFEW7vz-59" source="VmqLuruxpew99B8CEaRi-1" target="ibsxyXEcNVTKywFEW7vz-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="224" y="86" />
@@ -396,6 +396,19 @@
         </mxCell>
         <mxCell id="ibsxyXEcNVTKywFEW7vz-173" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;clipPath=inset(0% 0% 0% 0%);aspect=fixed;" parent="ibsxyXEcNVTKywFEW7vz-59" vertex="1">
           <mxGeometry x="191.75" y="166" width="40" height="21.26984126984127" as="geometry" />
+        </mxCell>
+        <mxCell id="VmqLuruxpew99B8CEaRi-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="ibsxyXEcNVTKywFEW7vz-59" source="ibsxyXEcNVTKywFEW7vz-173" target="VmqLuruxpew99B8CEaRi-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="204" y="156" />
+              <mxPoint x="204" y="156" />
+            </Array>
+            <mxPoint x="3458" y="2200" as="sourcePoint" />
+            <mxPoint x="3458" y="2034" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VmqLuruxpew99B8CEaRi-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png;clipPath=inset(0% 0% 0% 0%);aspect=fixed;" vertex="1" parent="ibsxyXEcNVTKywFEW7vz-59">
+          <mxGeometry x="164" y="55" width="80" height="47.479674796747965" as="geometry" />
         </mxCell>
         <mxCell id="ibsxyXEcNVTKywFEW7vz-63" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2670" y="2035" width="409.5" height="407" as="geometry" />
