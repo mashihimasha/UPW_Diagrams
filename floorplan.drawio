@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="4bd5d27a-524c-7e24-5d5f-89a86ee4fca1">
-    <mxGraphModel dx="1035" dy="-1199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="-1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="ibsxyXEcNVTKywFEW7vz-16" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;Sales &amp;amp; Marketing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ibsxyXEcNVTKywFEW7vz-24" vertex="1">
           <mxGeometry x="146.5" y="315" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iA_pLaTAwGUdi6S3K2DN-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;rotation=-225;strokeWidth=2;" vertex="1" parent="ibsxyXEcNVTKywFEW7vz-24">
+          <mxGeometry x="351.25" y="84.25" width="31.5" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="ibsxyXEcNVTKywFEW7vz-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.couch;rotation=-90;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="440" y="2670" width="266" height="122" as="geometry" />
