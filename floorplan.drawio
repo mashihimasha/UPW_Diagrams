@@ -400,15 +400,15 @@
         <mxCell id="VmqLuruxpew99B8CEaRi-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="ibsxyXEcNVTKywFEW7vz-59" source="ibsxyXEcNVTKywFEW7vz-173" target="VmqLuruxpew99B8CEaRi-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="204" y="156" />
-              <mxPoint x="204" y="156" />
+              <mxPoint x="214" y="116" />
+              <mxPoint x="214" y="116" />
             </Array>
             <mxPoint x="3458" y="2200" as="sourcePoint" />
             <mxPoint x="3458" y="2034" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VmqLuruxpew99B8CEaRi-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png;clipPath=inset(0% 0% 0% 0%);aspect=fixed;" vertex="1" parent="ibsxyXEcNVTKywFEW7vz-59">
-          <mxGeometry x="164" y="55" width="80" height="47.479674796747965" as="geometry" />
+          <mxGeometry x="181.75" y="26" width="60" height="35.62" as="geometry" />
         </mxCell>
         <mxCell id="ibsxyXEcNVTKywFEW7vz-63" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2670" y="2035" width="409.5" height="407" as="geometry" />
