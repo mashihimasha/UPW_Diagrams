@@ -112,6 +112,18 @@
         <mxCell id="iA_pLaTAwGUdi6S3K2DN-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;rotation=-225;strokeWidth=2;" vertex="1" parent="ibsxyXEcNVTKywFEW7vz-24">
           <mxGeometry x="351.25" y="84.25" width="31.5" height="31.5" as="geometry" />
         </mxCell>
+        <mxCell id="iA_pLaTAwGUdi6S3K2DN-6" value="" style="image;html=1;image=img/lib/clip_art/computers/Printer_128x128.png;aspect=fixed;" vertex="1" parent="ibsxyXEcNVTKywFEW7vz-24">
+          <mxGeometry x="6.5" y="235" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iA_pLaTAwGUdi6S3K2DN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="ibsxyXEcNVTKywFEW7vz-24" source="ibsxyXEcNVTKywFEW7vz-80" target="iA_pLaTAwGUdi6S3K2DN-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="187" y="165" as="sourcePoint" />
+            <mxPoint x="66" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="177" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ibsxyXEcNVTKywFEW7vz-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.couch;rotation=-90;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="440" y="2670" width="266" height="122" as="geometry" />
         </mxCell>
