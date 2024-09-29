@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="4bd5d27a-524c-7e24-5d5f-89a86ee4fca1">
-    <mxGraphModel dx="5867" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="-1199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -500,12 +500,12 @@
             <mxPoint x="3470" y="2038" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ibsxyXEcNVTKywFEW7vz-148" value="Cat 5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ibsxyXEcNVTKywFEW7vz-135" vertex="1" connectable="0">
+        <mxCell id="ibsxyXEcNVTKywFEW7vz-148" value="Cat 5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=28;" parent="ibsxyXEcNVTKywFEW7vz-135" vertex="1" connectable="0">
           <mxGeometry x="-0.0764" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ibsxyXEcNVTKywFEW7vz-206" value="Cat 5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=20;" parent="ibsxyXEcNVTKywFEW7vz-135" vertex="1" connectable="0">
+        <mxCell id="ibsxyXEcNVTKywFEW7vz-206" value="Cat 5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=28;" parent="ibsxyXEcNVTKywFEW7vz-135" vertex="1" connectable="0">
           <mxGeometry x="-0.7834" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -566,7 +566,7 @@
             <mxPoint x="3305.9999999999995" y="2814" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ibsxyXEcNVTKywFEW7vz-124" value="ISP" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="ibsxyXEcNVTKywFEW7vz-124" value="ISP" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;fontStyle=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="952" y="1870" width="112" height="70.56" as="geometry" />
         </mxCell>
       </root>
