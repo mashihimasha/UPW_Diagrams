@@ -423,10 +423,10 @@
         <mxCell id="VmqLuruxpew99B8CEaRi-3" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;clipPath=inset(0% 0% 0% 0%);aspect=fixed;" vertex="1" parent="ibsxyXEcNVTKywFEW7vz-59">
           <mxGeometry x="125.25" y="91" width="40" height="21.26984126984127" as="geometry" />
         </mxCell>
-        <mxCell id="VmqLuruxpew99B8CEaRi-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;fillColor=#b1ddf0;strokeColor=#10739e;entryX=0.353;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ibsxyXEcNVTKywFEW7vz-59" source="VmqLuruxpew99B8CEaRi-4" target="ibsxyXEcNVTKywFEW7vz-60">
+        <mxCell id="VmqLuruxpew99B8CEaRi-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=5;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="ibsxyXEcNVTKywFEW7vz-59" source="VmqLuruxpew99B8CEaRi-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="292" y="106" as="sourcePoint" />
-            <mxPoint x="144" y="6" as="targetPoint" />
+            <mxPoint x="144" y="2" as="targetPoint" />
             <Array as="points">
               <mxPoint x="297" y="2" />
             </Array>
