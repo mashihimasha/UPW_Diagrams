@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="4bd5d27a-524c-7e24-5d5f-89a86ee4fca1">
-    <mxGraphModel dx="3520" dy="4" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="-1227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -527,11 +527,11 @@
         <mxCell id="ibsxyXEcNVTKywFEW7vz-117" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3Dmxgraph.cisco.computers_and_peripherals.terminal%3Bhtml%3D1%3BpointerEvents%3D1%3Bdashed%3D0%3BfillColor%3D%23036897%3BstrokeColor%3D%23ffffff%3BstrokeWidth%3D2%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Balign%3Dcenter%3BoutlineConnect%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%223150%22%20y%3D%222930%22%20width%3D%2249.7%22%20height%3D%2244%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" parent="1" vertex="1">
           <mxGeometry x="2710" y="2862" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ibsxyXEcNVTKywFEW7vz-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=5;entryX=0.516;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ibsxyXEcNVTKywFEW7vz-124" target="ibsxyXEcNVTKywFEW7vz-4" edge="1">
+        <mxCell id="ibsxyXEcNVTKywFEW7vz-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=5;entryX=0.516;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ibsxyXEcNVTKywFEW7vz-124" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1010" y="2030" as="targetPoint" />
+            <mxPoint x="3468.26" y="2035.985" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1008" y="2036" />
+              <mxPoint x="3466" y="2036" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -608,7 +608,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ibsxyXEcNVTKywFEW7vz-124" value="ISP" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;fontStyle=1;fontSize=28;" parent="1" vertex="1">
-          <mxGeometry x="952" y="1870" width="112" height="70.56" as="geometry" />
+          <mxGeometry x="3410" y="1870" width="112" height="70.56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
