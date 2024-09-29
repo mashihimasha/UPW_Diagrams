@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="4bd5d27a-524c-7e24-5d5f-89a86ee4fca1">
-    <mxGraphModel dx="1467" dy="-990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3520" dy="4" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -213,7 +213,7 @@
           <mxGeometry x="451.4965074135091" y="98.5" width="54.03624382207578" height="57.41350906095552" as="geometry" />
         </mxCell>
         <mxCell id="ibsxyXEcNVTKywFEW7vz-52" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;Finance&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ibsxyXEcNVTKywFEW7vz-39" vertex="1">
-          <mxGeometry x="216.82434925864908" y="218.5" width="87.80889621087314" height="30" as="geometry" />
+          <mxGeometry x="161.0943492586491" y="155.91" width="87.80889621087314" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ibsxyXEcNVTKywFEW7vz-91" value="" style="shape=mxgraph.cisco.computers_and_peripherals.terminal;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="ibsxyXEcNVTKywFEW7vz-39" vertex="1">
           <mxGeometry x="141.49683690280065" y="298.5" width="44" height="44" as="geometry" />
