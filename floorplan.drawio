@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="4bd5d27a-524c-7e24-5d5f-89a86ee4fca1">
-    <mxGraphModel dx="2514" dy="-483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="-635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,10 +176,10 @@
           <mxGeometry x="138.5" y="188.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ibsxyXEcNVTKywFEW7vz-86" value="" style="shape=mxgraph.cisco.computers_and_peripherals.terminal;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="ibsxyXEcNVTKywFEW7vz-30" vertex="1">
-          <mxGeometry x="117" y="39" width="49.7" height="44" as="geometry" />
+          <mxGeometry x="108" y="105" width="49.7" height="44" as="geometry" />
         </mxCell>
         <mxCell id="ibsxyXEcNVTKywFEW7vz-87" value="" style="shape=mxgraph.cisco.computers_and_peripherals.terminal;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="ibsxyXEcNVTKywFEW7vz-30" vertex="1">
-          <mxGeometry x="197" y="38" width="49.7" height="44" as="geometry" />
+          <mxGeometry x="108" y="34" width="49.7" height="44" as="geometry" />
         </mxCell>
         <mxCell id="ibsxyXEcNVTKywFEW7vz-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=6;fillColor=#b1ddf0;strokeColor=#10739e;" parent="ibsxyXEcNVTKywFEW7vz-30" source="ibsxyXEcNVTKywFEW7vz-88" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -199,8 +199,7 @@
         <mxCell id="ibsxyXEcNVTKywFEW7vz-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=5;fillColor=#b1ddf0;strokeColor=#10739e;" parent="ibsxyXEcNVTKywFEW7vz-30" source="ibsxyXEcNVTKywFEW7vz-88" target="ibsxyXEcNVTKywFEW7vz-86" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="297" y="98" />
-              <mxPoint x="142" y="98" />
+              <mxPoint x="297" y="125" />
             </Array>
           </mxGeometry>
         </mxCell>
